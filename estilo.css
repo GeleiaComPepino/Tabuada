@@ -16,6 +16,7 @@ section{
     background-color: #fff;
     border-radius: 10px;
     box-shadow:rgba(0, 0, 0, 0.582) 5px 5px 10px;
+    text-align: center;
 }
 footer{
     width: 500px;
